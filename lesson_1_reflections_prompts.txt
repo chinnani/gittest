@@ -1,0 +1,8 @@
+--->>>diff -u oldfile newfile
+--->>>Version control---Git,SVN,Googledocs,Dropbox,Manual saving
+--->>>Commmits---Terminonlogy in git ,(a part of git) which indicates a logical change in versions .
+--->>>diff(git diff id-old id-new)----An operator Same as 'diff -u' but compares different commits saved in our git profile
+--->>>git init ,git status, git log , git add filename, git commit (Opens editor ), ls -a, git checkout id(4 digits), git log --stat,
+--->>>git diff id1, id2 ; git config --global color.ui auto ; git commit -m "Commit message"; 
+--->>>diff analyzes two files and prints the lines that are different. Essentially, it outputs a set of instructions for how to change one file in order to make it identical to the second file.
+--->>>colordiff gives colored diff
